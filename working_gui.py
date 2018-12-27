@@ -11,10 +11,6 @@ import os
 from Sent_embed import InferSentClass 
 from general_functions import *
 
-print('hii')
-print('hii')
-print('hii')
-print('hii')
 
 
 class guiclass(tkinter.Frame):
